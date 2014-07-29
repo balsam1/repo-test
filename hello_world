@@ -1,7 +1,15 @@
 this is  line 1 + 2
 
+<<<<<<< HEAD
 מה קורה? אניגגגג מוסיף שוב
 
 one more line
 
 nimber 7 line in my pc
+=======
+מה עוד משהו קורה? אני מוסיף שוב
+
+one more line
+6
+line in repository
+>>>>>>> origin/master
